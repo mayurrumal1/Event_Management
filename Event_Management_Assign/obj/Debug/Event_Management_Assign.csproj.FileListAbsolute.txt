@@ -1,0 +1,245 @@
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\ApplicationInsights.config
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Event_Management_Assign.dll.config
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Event_Management_Assign.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Event_Management_Assign.pdb
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csc.exe
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csc.exe.config
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csc.rsp
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csi.exe
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csi.exe.config
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csi.rsp
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.AppContext.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Collections.Immutable.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Console.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.Compression.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.FileSystem.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.Pipes.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Reflection.Metadata.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.AccessControl.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Claims.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.ValueTuple.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.XPath.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\vbc.exe
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\vbc.exe.config
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\vbc.rsp
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\VBCSCompiler.exe
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\VBCSCompiler.exe.config
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Antlr3.Runtime.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.SqlServer.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.DependencyCollector.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.Web.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.WindowsServer.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.ApplicationInsights.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Google.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Web.Infrastructure.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Newtonsoft.Json.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Owin.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Diagnostics.DiagnosticSource.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Helpers.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Mvc.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Optimization.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Razor.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Deployment.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Razor.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\WebGrease.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Helpers.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Mvc.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Optimization.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Razor.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Deployment.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Razor.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Newtonsoft.Json.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Antlr3.Runtime.pdb
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.SqlServer.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Google.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Diagnostics.DiagnosticSource.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.DependencyCollector.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.WindowsServer.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.Web.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.csprojAssemblyReference.cache
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.csproj.CoreCompileInputs.cache
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.csproj.CopyComplete
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.dll
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.pdb
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.Migrations.InitialModel.resources
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.csproj.GenerateResource.cache
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.Migrations.AddEventCustomerTable.resources
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.Migrations.AddEventCustomerTable1.resources
+Z:\mayur On My Mac\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.Migrations.ModifyEventCustomer.resources
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\ApplicationInsights.config
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Event_Management_Assign.dll.config
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Event_Management_Assign.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Event_Management_Assign.pdb
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csc.exe
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csc.exe.config
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csc.rsp
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csi.exe
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csi.exe.config
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\csi.rsp
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.AppContext.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Collections.Immutable.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Console.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.Compression.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.FileSystem.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.IO.Pipes.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.AccessControl.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Claims.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.ValueTuple.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.XPath.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\vbc.exe
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\vbc.exe.config
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\vbc.rsp
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\VBCSCompiler.exe
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\roslyn\VBCSCompiler.exe.config
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Antlr3.Runtime.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.SqlServer.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.Web.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.WindowsServer.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.ApplicationInsights.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Google.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Web.Infrastructure.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Newtonsoft.Json.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Owin.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Diagnostics.DiagnosticSource.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Helpers.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Mvc.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Optimization.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Razor.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Deployment.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Razor.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\WebGrease.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Helpers.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Mvc.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Optimization.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.Razor.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Deployment.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Web.WebPages.Razor.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Newtonsoft.Json.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Antlr3.Runtime.pdb
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\EntityFramework.SqlServer.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Google.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\System.Diagnostics.DiagnosticSource.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.WindowsServer.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.AI.Web.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.csprojAssemblyReference.cache
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.csproj.CoreCompileInputs.cache
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.csproj.CopyComplete
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.dll
+Z:\Documents\Visual Studio 2017\Projects\Event_Management_Assign\Event_Management_Assign\obj\Debug\Event_Management_Assign.pdb
